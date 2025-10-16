@@ -1,2 +1,2 @@
-# nopcommerce_karate
-This is repository for automation test, based on Karate Framework. 
+# nopcommerce_playwright
+This is repository for automation test, based on Playwright Framework. 
